@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @fatih-git
+- 🌱 I’m currently learning Java
+- 📫 How to reach me turgutlugil.1989@gmail.com
+- 🎒 I'm studying in Bursa Uludag University Computer Engineering
